@@ -16,7 +16,7 @@ class Cuadrito extends StatelessWidget {
               child: Row(
                 children: [
                   Text(
-                    'Informacion de contactos',
+                    'Informacion de contacto',
                     style: TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.w500,
