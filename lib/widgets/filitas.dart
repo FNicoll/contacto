@@ -13,7 +13,6 @@ class Filitas extends StatelessWidget {
             children: [
               CircleAvatar(
                 backgroundColor: Colors.greenAccent,
-                child: Text("W"),
               ),
               SizedBox(
                 width: 20,
@@ -31,7 +30,6 @@ class Filitas extends StatelessWidget {
             children: [
               CircleAvatar(
                 backgroundColor: Colors.greenAccent,
-                child: Text("W"),
               ),
               SizedBox(
                 width: 20,
@@ -49,7 +47,6 @@ class Filitas extends StatelessWidget {
             children: [
               CircleAvatar(
                 backgroundColor: Colors.greenAccent,
-                child: Text("W"),
               ),
               SizedBox(
                 width: 20,
@@ -67,7 +64,6 @@ class Filitas extends StatelessWidget {
             children: [
               CircleAvatar(
                 backgroundColor: Colors.lightBlueAccent,
-                child: Text("T"),
               ),
               SizedBox(
                 width: 20,
@@ -85,7 +81,6 @@ class Filitas extends StatelessWidget {
             children: [
               CircleAvatar(
                 backgroundColor: Colors.lightBlueAccent,
-                child: Text("T"),
               ),
               SizedBox(
                 width: 20,
@@ -103,7 +98,6 @@ class Filitas extends StatelessWidget {
             children: [
               CircleAvatar(
                 backgroundColor: Colors.lightBlueAccent,
-                child: Text("T"),
               ),
               SizedBox(
                 width: 20,
