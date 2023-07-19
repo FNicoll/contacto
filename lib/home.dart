@@ -21,8 +21,11 @@ class _HomeState extends State<Home> {
             padding: EdgeInsets.symmetric(vertical: 55.0),
             child: CircleAvatar(
               radius: 45,
-              backgroundColor: Colors.lightBlue,
-              child: Text('P'),
+              backgroundColor: Color.fromARGB(255, 244, 3, 99),
+              child: Text(
+                'P',
+                style: TextStyle(fontSize: 55, color: Colors.white),
+              ),
             ),
           ),
           Text(
